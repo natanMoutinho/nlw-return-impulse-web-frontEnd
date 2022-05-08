@@ -60,7 +60,7 @@ export function WidgetFrom() {
                 </>
             )}
             <footer className="text-xs text-neutral-400">
-                Feito com amor S2, by nataN <a className="underline underline-offset-2" href="https://github.com/natanMoutinho"> GITHUB </a>
+                Feito com ♥ pelo <a className="underline underline-offset-2" href="https://github.com/natanMoutinho"> nataN </a>
             </footer>
         </div>
     );
